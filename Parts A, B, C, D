@@ -1,2 +1,0 @@
-## Part A: Probability in Practice
-I wrote a python script that would allow me to simulate a fair coin flipped 10 times, repeated 1000 times. I then generated a distribution looking at the probablity of obtaining 5 heads, using the simulation
